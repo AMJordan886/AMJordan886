@@ -22,7 +22,7 @@
 <!-- <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=amjordan886&label=Profile%20Views&color=11&icon=8&pretty=true)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=amjordan886&label=Profile%20Views&color=11&icon=8&pretty=true)](https://visitcount.itsvg.in)  -->
 
 [![](https://visitcount.itsvg.in/api?id=AMJordan886&icon=6&color=4)](https://visitcount.itsvg.in)
 
