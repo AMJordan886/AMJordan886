@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Wejyc Tech<br>🌱 I’m currently learning AI<br>💬 Ask me about hybrid Apps<br>⚡ Passionate about Bikes
+🔭 I’m currently working on Thinkia<br>🌱 I’m currently learning cloud architecture<br>💬 Ask me about hybrid Apps<br>⚡ Passionate about Bikes, Mountain & Nature
 
 
 ## 🌐 Socials:
